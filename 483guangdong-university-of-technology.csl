@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>广东工业大学</title>
+    <title>西北大学</title>
     <id>http://www.zotero.org/styles/guangdong-university-of-technology</id>
     <link href="http://www.zotero.org/styles/guangdong-university-of-technology" rel="self"/>
     <link href="http://www.zotero.org/styles/002gb-t-7714-2015-numeric-bilingual-no-uppercase-no-url-doi" rel="template"/>
@@ -12,7 +12,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>广东工业大学研究生学位论文撰写规范（2023年9月修订）</summary>
+    <summary>西北大学学位与研究生教育工作手册</summary>
     <updated>2024-04-04T21:53:01+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
